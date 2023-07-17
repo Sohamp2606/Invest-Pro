@@ -28,14 +28,31 @@
 - #### API used for:
   - Yahoo Finance API 
 
-## Walkthrough :
+## Walkthrough video :
 
 ## Output Screen-shots:
 
 The Home page of the application
+
 ![Screenshot 2023-07-17 123442](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/9591a890-b952-455b-9157-95de02ea27f2)
 
+Stock Tickers list to select stock
 
+![Screenshot 2023-07-17 123507](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/e454de05-c351-4db4-8a48-6ebf21cc5bf8)
+
+![Screenshot 2023-07-17 123532](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/88eef735-7459-402e-bb1d-00c4963cbcab)
+
+The chart that show OPEN and CLOSE LIVE price of selected Stock 
+
+![live chart](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/19bf58de-24e0-42b7-b428-ef47a35a24b2)
+
+PIE chart that show SAFE and RISK percentage of stock 
+
+![Screenshot 2023-07-17 122807](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/99f739c7-a112-461b-b696-0643865bfb72)
+
+PREDICTION chart contain Actual price and PREDICTED price
+
+![prediction chart](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/dc3b8e56-bc11-4c25-8b4d-f524c4279745)
 
 
 
