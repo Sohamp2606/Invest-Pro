@@ -59,6 +59,7 @@ Click Next Day Price Predict --> show Next Day Predicted Price and Today's Price
 ![nextday](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/713c39b1-cdeb-4423-a104-50a0234209ef)
 
 
+## Thank You , Keep Learning Keep Coding
 
 
 
