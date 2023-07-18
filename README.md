@@ -36,23 +36,27 @@ The Home page of the application
 
 ![Screenshot 2023-07-17 123442](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/9591a890-b952-455b-9157-95de02ea27f2)
 
-Stock Tickers list to select stock
+click Get Start --> show Stock Tickers list to select stock 
 
-![Screenshot 2023-07-17 123507](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/e454de05-c351-4db4-8a48-6ebf21cc5bf8)
+![list2](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/184408a1-c5db-4897-8740-a90ab96109be)
 
 ![Screenshot 2023-07-17 123532](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/88eef735-7459-402e-bb1d-00c4963cbcab)
 
-The chart that show OPEN and CLOSE LIVE price of selected Stock 
+click View Chart --> show The chart that show OPEN and CLOSE LIVE price of selected Stock 
 
 ![live chart](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/19bf58de-24e0-42b7-b428-ef47a35a24b2)
 
-PIE chart that show SAFE and RISK percentage of stock 
+Click Analysis --> show PIE chart that show SAFE and RISK percentage of stock 
 
 ![Screenshot 2023-07-17 122807](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/99f739c7-a112-461b-b696-0643865bfb72)
 
-PREDICTION chart contain Actual price and PREDICTED price
+Click Predict --> show PREDICTION chart contain Actual price and PREDICTED price
 
-![prediction chart](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/dc3b8e56-bc11-4c25-8b4d-f524c4279745)
+![predict](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/674ba9db-2382-463b-a9da-fa8758ddc061)
+
+Click Next Day Price Predict --> show Next Day Predicted Price and Today's Price
+
+![nextday](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/713c39b1-cdeb-4423-a104-50a0234209ef)
 
 
 
