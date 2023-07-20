@@ -1,4 +1,4 @@
-# The-Smart-Investor-s-Guide
+# The-Smart-Investment-Guide
 
 ![banner](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/f4a71c17-7805-418b-b0bb-7463922a20f0)
 
