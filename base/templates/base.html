@@ -1,0 +1,26 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <link rel="stylesheet" href="{% static 'mystyle.css' %}">
+        <title> {% block title %} {% endblock  %} </title>
+
+        <style>
+            .wallpaper {
+              background-image: url("D:\mycode\images\banner.png");
+            } 
+            </style>
+            
+        
+    </head>
+    <body>
+        <div class="topnav">
+            <a href="/">HOME</a> |
+            <a href="/searchticker">TIKERS</a>
+        </div>
+        {% block content %}
+        {% endblock%}
+    </body>
+</html>
+

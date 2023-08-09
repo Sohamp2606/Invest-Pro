@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+{% block title %}
+   live price
+{% endblock %}
+
+ {% block content %}
+    <div class="header-bar">
+      <a href="{% url 'searchticker' %}">&#8592;BACK</a>
+    </div>
+
+    <div class="mycard2">
+      <h1> {{ticker}} Live price chart</h1>
+      {{ chart|safe }}
+      </br>
+ 
+      <button class="button" type="submit"  onclick="LoadURL()"  style="margin-top:10px";>Predict</button>
+      <button class="button" type="submit"  onclick="LoadURL2()"  style="margin-top:10px";>Analysis</button>
+ 
+    </div>
+
+  <script type="text/javascript">
+    function LoadURL() {
+      var ticker = "{{ticker}}";
+      var server = window.location.origin;
+      var path = "/prediction/" + ticker;
+      var url = server + path;
+      window.location.href = url;
+    }
+  </script>
+
+  <script >
+    function LoadURL2() {
+      var ticker = "{{ ticker }}";
+      var server = window.location.origin;
+      var path = "/analysis/" + ticker;
+      var url = server + path;
+      window.location.href = url;
+    }
+  </script>
+ 
+ {% endblock %}

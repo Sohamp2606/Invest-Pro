@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block title %}
+  Safe Risk Chart
+{% endblock %}
+
+ {% block content %}
+  <div class="header-bar">
+    <a href="{% url 'searchticker' %}">&#8592;BACK</a>
+  </div>
+  
+  <div class="mycard2">
+    <h1> {{ticker}} Analysis Chart</h1>
+    {{ chart|safe }}
+ 
+ {% endblock %}

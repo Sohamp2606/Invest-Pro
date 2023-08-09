@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+   home
+{% endblock%}
+
+ {% block content %}
+ <div class="wallpaper">
+  <div class="main">
+
+   <img src="{% static 'banner.png' %}" usemap="#workmap">
+    <map name="workmap">
+      <area shape="rect" coords="96,428,330,490" alt="Computer" href="searchticker/">
+    </map>
+  
+ </div>
+</div>
+ {% endblock %}
