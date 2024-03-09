@@ -16,6 +16,7 @@ https://github.com/Sohamp2606/The-Smart-Investment-Guide/assets/106002920/beaf4e
 
 
 
+
 ## Technology Used:
 - #### Languages:
   - ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
