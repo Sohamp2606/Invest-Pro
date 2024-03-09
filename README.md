@@ -7,6 +7,15 @@
  This web application is designed for stock analysis, leveraging real-time stock price data fetched from an API. It offers a range of features including a <b> Risk-O-Meter (formerly PIE chart)  displaying risk levels, live charts, prediction charts, and the integration of technical indicators </b>  . Notably, the addition of technical indicators enhances the application by providing insights such as strong sell, sell, and buy signals. In addition to stock price predictions, the application now includes market watch functionality, displaying both today's and next day's prices. A key highlight of the project is the implementation of LSTM (Long Short-Term Memory) algorithm, . This algorithm enables the application to predict stock prices based on real-time data, catering to the needs of investors and traders in making informed decisions in the stock market.
 </p>
 
+
+## Walkthrough video :
+
+
+
+https://github.com/Sohamp2606/The-Smart-Investment-Guide/assets/106002920/beaf4efd-4ee2-4750-963d-85c9e43353f3
+
+
+
 ## Technology Used:
 - #### Languages:
   - ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -27,7 +36,6 @@
 - #### API used for:
   - Yahoo Finance API 
 
-## Walkthrough video :
 
 ## Output Screen-shots:
 
