@@ -4,8 +4,7 @@
 
 ## Introduction
 <p>
-  This webapplication is build to analyse the stocks, It featch real time stock price from API and show <b>PIE chart, LIVE chart,PREDICTION chart</b>, we can use algorithm to identify patterns through machine learning. One of the most well-known algorithm  is <b>LSTM (long short-term memory)</b> which is a Recurrent Neural Network (RNN) that is able to remember information over a long period of time, thus making them extremely useful for predicting stock prices. RNNs are well-suited to time series data and they are able to process the data step-by-step.
-  The main objective of this project is to develop a web application that can predict stock price based on real-time data.
+ This web application is designed for stock analysis, leveraging real-time stock price data fetched from an API. It offers a range of features including a <b> Risk-O-Meter (formerly PIE chart)  displaying risk levels, live charts, prediction charts, and the integration of technical indicators </b>  . Notably, the addition of technical indicators enhances the application by providing insights such as strong sell, sell, and buy signals. In addition to stock price predictions, the application now includes market watch functionality, displaying both today's and next day's prices. A key highlight of the project is the implementation of LSTM (Long Short-Term Memory) algorithm, . This algorithm enables the application to predict stock prices based on real-time data, catering to the needs of investors and traders in making informed decisions in the stock market.
 </p>
 
 ## Technology Used:
@@ -34,29 +33,41 @@
 
 The Home page of the application
 
-![Screenshot 2023-07-17 123442](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/9591a890-b952-455b-9157-95de02ea27f2)
+![Screenshot 2024-03-09 143708](https://github.com/Sohamp2606/The-Smart-Investment-Guide/assets/106002920/348419d6-93f7-4fdd-9a15-a6bea85f61c5)
 
-click Get Start --> show Stock Tickers list to select stock 
+
+
+Get Start --> show Stock Tickers list 
+
 
 ![list2](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/184408a1-c5db-4897-8740-a90ab96109be)
 
-![Screenshot 2023-07-17 123532](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/88eef735-7459-402e-bb1d-00c4963cbcab)
+![Screenshot 2024-03-09 145517](https://github.com/Sohamp2606/The-Smart-Investment-Guide/assets/106002920/35d99351-0d69-41c7-a1b2-74335f8c45d6)
 
-click View Chart --> show The chart that show OPEN and CLOSE LIVE price of selected Stock 
+View Chart --> LIVE Chart
 
-![live chart](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/19bf58de-24e0-42b7-b428-ef47a35a24b2)
+![Screenshot 2024-03-09 151249](https://github.com/Sohamp2606/The-Smart-Investment-Guide/assets/106002920/230cd72b-0164-4f65-bcf6-e9eb0159087d)
 
-Click Analysis --> show PIE chart that show SAFE and RISK percentage of stock 
 
-![Screenshot 2023-07-17 122807](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/99f739c7-a112-461b-b696-0643865bfb72)
+Click Analysis --> Risk-O-meter
 
-Click Predict --> show PREDICTION chart contain Actual price and PREDICTED price
+![Screenshot 2024-03-09 143944](https://github.com/Sohamp2606/The-Smart-Investment-Guide/assets/106002920/abfae66e-94c5-4644-895b-1b211a5fae27)
 
-![predict](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/674ba9db-2382-463b-a9da-fa8758ddc061)
+ Technical Indicator 
+ 
+ ![Screenshot 2024-03-09 143812](https://github.com/Sohamp2606/The-Smart-Investment-Guide/assets/106002920/44e620fc-0139-45ef-a9bd-4e50c8c9827d)
 
-Click Next Day Price Predict --> show Next Day Predicted Price and Today's Price
+ 
 
-![nextday](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/713c39b1-cdeb-4423-a104-50a0234209ef)
+Click Predict --> show PREDICTION Chart
+
+![Screenshot 2024-03-09 145914](https://github.com/Sohamp2606/The-Smart-Investment-Guide/assets/106002920/488e7074-1c5f-4e48-8f88-14067dab6b0a)
+
+
+ Market Watch 
+
+![Screenshot 2024-03-09 143752](https://github.com/Sohamp2606/The-Smart-Investment-Guide/assets/106002920/cbe2aca5-ee7b-40b4-8587-66ece733980b)
+
 
 
 ## Thank You , Keep Learning Keep Coding
