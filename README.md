@@ -1,6 +1,7 @@
-# The-Smart-Investment-Guide
+# InvestPro
 
-![banner](https://github.com/Sohamp2606/The-Smart-Investor-s-Guide/assets/106002920/f4a71c17-7805-418b-b0bb-7463922a20f0)
+![Minimal Financial Company LinkedIn Sponsored Content (1)](https://github.com/Sohamp2606/The-Smart-Investment-Guide/assets/106002920/ab464802-ba88-4a04-9b6a-360cc4f1eff3)
+
 
 ## Introduction
 <p>
